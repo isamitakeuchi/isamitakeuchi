@@ -1,7 +1,6 @@
-<h1>Hi, I'm Isami! <br/><a href="https://www.linkedin.com/in/isamitakeuchi/">Cybersecurity Professional</a> and <a href="https://github.com/isamitakeuchi">Programmer</a>
-
-<h2>Introduction</h2>
+<h1>Hi, I'm Isami! <br/><a href="https://www.linkedin.com/in/isamitakeuchi/">Cybersecurity Professional</a> and <a href="https://github.com/isamitakeuchi">Programmer</a></h1>
 I am a recent grad with a Bachelor's Degree in Computer Science and a passion in cybersecurity. I’m focusing on building my skills to become a SOC Analyst, with the long-term goal of advancing into penetration testing. My interests include threat detection, incident response, vulnerability analysis, and ethical hacking.
+
 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
@@ -12,8 +11,8 @@ I am a recent grad with a Bachelor's Degree in Computer Science and a passion in
 
 <h2>🏆 Certifications</h2>
 
-- [CompTIA A+](https://www.credly.com/badges/73b299d0-4339-4b16-aa00-a9296d09721a/public_url)
-  
+- [CompTIA A+](https://www.credly.com/badges/73b299d0-4339-4b16-aa00-a9296d09721a/public_url)  
+
 
 <h2> 🤳 Connect with me:</h2>
 
