@@ -1,6 +1,6 @@
 <h1>Hi, I'm Isami! <br/><a href="https://www.linkedin.com/in/isamitakeuchi/">Cybersecurity Professional</a> and <a href="https://github.com/isamitakeuchi">Programmer</a>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Cybersecurity Home Lab](https://github.com/isamitakeuchi/LABURL)
 - [Keylogger](https://github.com/isamitakeuchi/LABURL)
