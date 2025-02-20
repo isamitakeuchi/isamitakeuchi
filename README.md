@@ -20,7 +20,7 @@ I am a recent grad with a Bachelor's Degree in Computer Science and a passion in
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/LinkedIn.svg" />][linkedin]
+[<img target="_blank" align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/LinkedIn.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Instagram.svg" />][instagram]
 
 [linkedin]: https://linkedin.com/in/isamitakeuchi
