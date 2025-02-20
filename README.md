@@ -20,13 +20,10 @@ I am a recent grad with a Bachelor's Degree in Computer Science and a passion in
 
 <h2> 🤳 Connect with me:</h2>
 
-<a href="https://linkedin.com/in/isamitakeuchi" target="_blank">
-  <img align="left" width="22px" src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/LinkedIn.svg" />
-</a>
-<!--[<img target="_blank" align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/LinkedIn.svg" />][linkedin]-->
+[<img target="_blank" align="left" alt="IsamiTakeuchi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/LinkedIn.svg" />][linkedin]
 [<img align="left" alt="IsamiTakeuchi | Instagram" width="22px" src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Instagram.svg" />][instagram]
 
-<!--[linkedin]: https://linkedin.com/in/isamitakeuchi-->
+[linkedin]: https://linkedin.com/in/isamitakeuchi
 [instagram]: https://www.instagram.com/isamitakeuchi/
 
 
