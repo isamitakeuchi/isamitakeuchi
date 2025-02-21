@@ -5,7 +5,7 @@ I am a recent grad with a Bachelor's Degree in Computer Science and a passion in
 
 <h2>🪪 Cybersecurity Projects:</h2>
 
-- [Cybersecurity Home Lab](https://github.com/isamitakeuchi/LABURL)
+- [Cybersecurity Home Lab](https://github.com/isamitakeuchi/Cybersecurity Home Lab)
 - [Keylogger](https://github.com/isamitakeuchi/LABURL)
 
 
