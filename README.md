@@ -15,7 +15,8 @@ I am a recent grad with a Bachelor's Degree in Computer Science and a passion in
 
 <h2>🏆 Certifications</h2>
 
-- [CompTIA A+](https://www.credly.com/badges/73b299d0-4339-4b16-aa00-a9296d09721a/public_url)  
+- [CompTIA A+](https://www.credly.com/badges/73b299d0-4339-4b16-aa00-a9296d09721a/public_url)
+- CompTIA Security+ ---> In Progress
 
 
 <h2> 🤳 Connect with me:</h2>
